@@ -6,7 +6,7 @@ This repository serves as a central hub for our users to find technical document
 
 ## 📱 Get the App
 Experience fast, secure, and ad-free browsing on your mobile device.
-[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](LINK_PLAYSTORE_ANDA_DI_SINI)
+[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.kolin.blueproxy)
 
 ## 🗂 Repository Contents
 - [Terms of Service & Privacy Policy](TOS.md)
